@@ -1,0 +1,4 @@
+#### Just for secret scanning demo i am adding an AWS secret key like structured key 
+
+
+AWS_Secret_key_value = "AKIAIOSFODNN7EXAMPLE"
